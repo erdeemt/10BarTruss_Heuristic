@@ -1,0 +1,10 @@
+# Proje Özelindeki Klasörler
+mh/
+outputs/
+.ipynb_checkpoints/
+
+# Python ve Visual Studio Genel Gereksizleri (Opsiyonel)
+__pycache__/
+*.pyc
+.vscode/
+.vs/
